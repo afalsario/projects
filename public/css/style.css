@@ -1,0 +1,14 @@
+#display {
+    height: 200px;
+    width: 200px;
+    border: 5px solid pink;
+    border-radius: 200px;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Chewy', cursive;
+    font-size: 150px;
+    color:purple;
+    animated: rubberBand;
+    background-color: violet;
+}
